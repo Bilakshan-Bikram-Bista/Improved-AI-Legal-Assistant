@@ -17,7 +17,7 @@ Large language models are prone to fabricating legal citations or mixing up sour
 - **Retrieval engine:** Python + FastAPI (BM25, inverted index, query pipeline)
 
 ### Evaluation
-This system was formally evaluated against a hand-labeled query set and benchmarked against both a TF-IDF baseline and Gemini. Full methodology and results are documented in an accompanying research paper, *AI Legal Assistant for Ethical AI and Algorithmic Accountability*.
+This system was formally evaluated against a hand-labeled query set and benchmarked against both a TF-IDF baseline and Gemini. Full methodology and results are documented in an accompanying research paper: *AI Legal Assistant for Ethical AI and Algorithmic Accountability*.
 
 ### Disclaimer
 This is an educational/informational tool, not a substitute for legal advice. It is a student project and has not been reviewed by legal professionals.
